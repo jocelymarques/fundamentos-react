@@ -1,7 +1,7 @@
 /* eslint-disable import/no-anonymous-default-export */
 import React from "react";
 
-import produtos from "../data/produtos";
+import produtos from "../../data/produtos";
 
 export default (props) => {
   function getProdutosListItem() {
